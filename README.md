@@ -27,7 +27,7 @@ Those years left three convictions behind, settled like sediment, about what mak
 
 The principles above are my *how*. My *why* is joy: work that feels lighter, so people want to keep going. The *what* is whatever I'm building at the moment, and that part will keep changing.
 
-**Say hello.** Let's talk about automation, data processing and QC, or what I'm learning about using AI safely: as a tool that helps people, not one that replaces them. I'm happy to chat in French, Portuguese or English. When I'm not coding, you'll find me with data visuals, design experiments, Ghibli films, and my old friends the fossils.
+**Say hello.** Let's talk about automation, data processing and QC. I'm happy to chat in French, Portuguese or English. When I'm not coding, you'll find me with data visuals, design experiments, Ghibli films, and my old friends the fossils.
 
 <p align="center"><i>Simple. Joyful. Made with heart.</i></p>
 <p align="center"><img src="assets/frog-mark.svg" width="36" height="36" alt="Shadoward frog mark"></p>
